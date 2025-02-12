@@ -88,9 +88,7 @@ Crime type and Arrest Number
 
 Looking at the bar chart, its show that battery has the highest crime in chicago with a high number more than 5000 and a total number of less than 500 Arrest made could this be that at each district of the police ward there are no enough police to enforce law. 
 
-
 # Other Analysis: 
-
 
 ## Predictive Analysis Summary: 
 Crimes might slowly decrease over time in the prediction. But predictions aren't 100% perfect— i need more data to make better reasoning.
