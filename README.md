@@ -9,9 +9,9 @@ I love Chicago and would want to live in that city someday but with the high ris
 
 ## Introduction
 
-This is a R project on crime rate in chicago. This project is to inform and understand of there are any variable affecting crime rate in chicago and how the government can work together in mitigating risks and provide a better community and environment. 
+This R project analyzes crime rates in Chicago to identify key factors influencing crime patterns. The goal is to provide insights into the variables affecting crime and explore how government agencies, tourist can collaborate to mitigate risks, enhance public safety, and foster a stronger, safer community.
 
-** This was my Master's Degree Presentation
+####  This research was presented as my Master's Degree project.
 
 ##  Problem Statement
 
