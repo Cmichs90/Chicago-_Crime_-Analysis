@@ -1,3 +1,3 @@
 # Chicago-_Crime_-Analysis
 
-![](Crime_image.jpg)
+![](Crime_Image.jpg)
