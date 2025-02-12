@@ -5,7 +5,7 @@
 ## Project Background
 I love Chicago and would want to live in that city someday but with the high rise in crime rate this might in the long run affect its economic significance. Amidst the inflation in the country, residents want to feel safe in their environment but with the increasing crime activities that might be questioned as there is no promising measure to tackle this situation. The primary objective is to not only identify potential threats but also to discern patterns, foresee future increases with the aim of providing actionable insights that can inform strategic interventions and policies to enhance public safety, address vulnerabilities, and foster a resilient and secure urban environment for all residents and visitors.
 
-** All Dataset use in this project are real and provided by the govt collected from the [here]
+** All Dataset use in this project are real and provided by leveraging the City of Chicago's Data Portal, crime data spanning from 2021 to 2023 [here](https://data.cityofchicago.org/browse?q=crime+dataset+2021&sortBy=relevance&pageSize=20&limitTo=datasets)
 
 ## Introduction
 
