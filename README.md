@@ -10,7 +10,8 @@ I love Chicago and would want to live in that city someday but with the high ris
 ## Introduction
 
 This is a R project on crime rate in chicago. This project is to inform and understand of there are any variable affecting crime rate in chicago and how the government can work together in mitigating risks and provide a better community and environment. 
-**This was my Master's Degree Presentation
+
+** This was my Master's Degree Presentation
 
 ##  Problem Statement
 
@@ -20,9 +21,25 @@ This is a R project on crime rate in chicago. This project is to inform and unde
 4.	Does law enforcement presence affect crime occurrence?
 
 ## Skills/Concept Demonstrated
+
 This analysis is a linear regression in R Studio to identify if any relationship exists. 
 -  Dependent variable considered at various points is Arrest, as the frequency of reported crime in Chicago.  
 -  Independent variables include demographic factor, time of the day and day of the year and other factors.
+-  Visualisation
+  
+
+## Analysis
+
+###   Q1:  How does the age demographic contribute to crime patterns
+
+Showing Age Distribution Visualisation           |             Analysis 
+:----------------------------------------------: | :-----------------------------:
+![](Distribution_of_Age.png)                     |  ![](R_Analysis.png)         
+
+
+
+
+
 
 
 
